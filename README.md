@@ -5,7 +5,7 @@ This project uses OpenCV to detect and track red-colored objects in real-time us
 ## 🎯 Features
 
 - 📷 Real-time video processing using your webcam
-- 🎨 Red color detection via HSV thresholding
+- 🎨  color detection via HSV thresholding
 - 🌫️ Noise reduction using Gaussian Blur, erosion, and dilation
 - 🔍 Contour detection and localization of the object
 - 🧠 Visual feedback: bounding circle and center dot over the object
